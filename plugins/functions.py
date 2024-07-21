@@ -23,7 +23,7 @@ keyboard = [
     ],
     [
         InlineKeyboardButton("How To Create A Bot Like Me",
-                             url="https://youtu.be/swg6un2N4Fk")
+                             url="https://github.com/Arup-Bots/ForwardTagRemoverBot/")
     ]
 ]
 
