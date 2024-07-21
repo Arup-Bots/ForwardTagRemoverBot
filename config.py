@@ -26,5 +26,5 @@ class Config:
     START_TEXT = """
 Hi [{}](tg://user?id={}) 
 I am A Forward Tag remover Bot.
-Send /help to know more ©[Abdul Razaq](https://github.com/arupmandal)"""
+Send /help to know more ©[Arup Mandal](https://github.com/arupmandal)"""
     HELP_TEXT = "Forward Me A File,Video,Audio,Photo or Anything And \nI will Send You the File Back\n\n`How to Set Caption?`\nReply Caption to a File,Photo,Audio,Media"
